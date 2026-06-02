@@ -159,12 +159,10 @@ El dashboard fue desarrollado en Power BI para analizar métricas organizacional
 hr-analytics-datawarehouse/
 │
 ├── README.md
-├── sql/
-├── etl/
-├── dashboard/
-├── docs/
+├── Model Multidimensional/
+├── Proceso ETL/
+├── Dashboard - rrhh/
 │   └── dashboard_rotacion.png
-└── notebooks/
 ```
 
 ---
