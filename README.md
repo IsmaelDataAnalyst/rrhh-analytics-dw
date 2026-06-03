@@ -12,7 +12,6 @@ El objetivo principal del proyecto es generar insights relacionados con:
 * Headcount organizacional
 * Brecha salarial
 * Demografía laboral
-* Tendencias organizacionales
 * People Analytics
 
 ---
